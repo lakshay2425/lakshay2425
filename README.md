@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @lakshay2425
-- 👀 I’m interested in Front-end development
-- 🌱 I’m currently learning JavaScript.
-- 💞️ I’m looking to collaborate on different front-end projects.
+- 👀 I’m interested in Back-end development
 - 📫 How to reach me Linkedin https://www.linkedin.com/in/lakshaymahajan25/
 
 <!---

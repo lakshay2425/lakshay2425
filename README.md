@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lakshay2425
-- 👀 I’m interested in Back-end development
+- 👀 I’m passionate about Backend Development and learned Node.js, Express.js, MongoDB, MySQLi.
 - 📫 How to reach me Linkedin https://www.linkedin.com/in/lakshaymahajan25/
 
 <!---

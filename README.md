@@ -6,7 +6,6 @@
   <a href="https://www.linkedin.com/in/lakshaymahajan25">LinkedIn</a> - 
   <a href="https://x.com/lakshay2224">Twitter</a> -
 <!--   <a href="https://recodehive.com/">Website</a> - -->
-  <a href="https://medium.com/@lakshay12290">Medium</a>
 </p>
 
 -----------------------------------------------------------

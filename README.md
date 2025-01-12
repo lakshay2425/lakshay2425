@@ -4,7 +4,7 @@
 <p align="center">
 <!--   <a href="http://sanjaykv.com/">Portfolios</a> - -->
   <a href="https://www.linkedin.com/in/lakshaymahajan25">LinkedIn</a> - 
-  <a href="https://x.com/lakshay2224">Twitter</a> -
+  <a href="https://x.com/lakshay2224">Twitter</a>
 <!--   <a href="https://recodehive.com/">Website</a> - -->
 </p>
 

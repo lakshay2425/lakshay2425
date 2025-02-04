@@ -5,7 +5,7 @@
   <a href="https://lakshaymahajan.com/">Portfolio</a> -
   <a href="https://www.linkedin.com/in/lakshaymahajan25">LinkedIn</a> - 
   <a href="https://x.com/lakshay2224">Twitter</a> -
-  <a href="https://lakshays-newsletter-73ba50.beehiiv.com/">Newsletter</a> -
+  <a href="https://www.newsletter.lakshaymahajan.com/">Newsletter</a> -
   <a href="https://resources.lakshaymahajan.com/">Free Resource Website</a>
 </p>
 

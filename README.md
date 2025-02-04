@@ -1,11 +1,12 @@
-<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/lakshaymahajan25">Lakshay Mahajan</a> </h1>
+<h1 align="center"> Hi there, I'm <a href="https://lakshaymahajan.com/">Lakshay Mahajan</a> </h1>
 
 <!--- Adding Header Elements -->
 <p align="center">
-<!--   <a href="http://sanjaykv.com/">Portfolios</a> - -->
+  <a href="https://lakshaymahajan.com/">Portfolio</a> -
   <a href="https://www.linkedin.com/in/lakshaymahajan25">LinkedIn</a> - 
   <a href="https://x.com/lakshay2224">Twitter</a>
-<!--   <a href="https://recodehive.com/">Website</a> - -->
+  <a href="https://lakshays-newsletter-73ba50.beehiiv.com/">Newsletter</a>a>
+  <a href="https://resources.lakshaymahajan.com/">Free Resource Website</a> -
 </p>
 
 -----------------------------------------------------------

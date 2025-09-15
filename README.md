@@ -1,8 +1,27 @@
-# Hi there, I'm Lakshay Mahajan 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Lakshay+Mahajan+👋;Backend+Developer;MERN+Stack+Enthusiast;Open+for+Opportunities" alt="Typing SVG" />
+</div>
 
-## 🚀 Aspiring Backend Developer | Final Year BCA Student | MERN Stack Enthusiast
+<div align="center">
+  
+  [![Linkedin Badge](https://img.shields.io/badge/-lakshay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lakshaymahajan25)](https://www.linkedin.com/in/lakshaymahajan25)
+  [![Twitter Badge](https://img.shields.io/badge/-@lakshay2224-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://x.com/lakshay2224)](https://x.com/lakshay2224)
+  [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=web&logoColor=white&link=https://lakshaymahajan.com/)](https://lakshaymahajan.com/)
+  [![Newsletter Badge](https://img.shields.io/badge/-Newsletter-FF6B35?style=flat-square&logo=mail-dot-ru&logoColor=white&link=https://newsletter.lakshaymahajan.com/)](https://newsletter.lakshaymahajan.com/)
+</div>
 
-I'm passionate about building scalable backend systems and creating robust APIs. Currently seeking opportunities to contribute my skills in a backend developer role while continuously learning and growing in the tech industry.
+---
+
+<div align="center">
+  <h2>🚀 Aspiring Backend Developer | Final Year BCA Student | MERN Stack Enthusiast</h2>
+  <p>
+    I'm passionate about building <strong>scalable backend systems</strong> and creating <strong>robust APIs</strong>. 
+    <br />
+    Currently seeking opportunities to contribute my skills in a <strong>backend developer role</strong> 
+    <br />
+    while continuously learning and growing in the tech industry.
+  </p>
+</div>
 
 ---
 
@@ -35,10 +54,22 @@ I'm passionate about building scalable backend systems and creating robust APIs.
 
 ## 🔥 What I'm Currently Working On
 
-- 🏗️ **Auth Microservice**: Built and deployed authentication service used by **3 production projects**
-- 🎓 **College Event Platform**: Developing backend for internship cell events handling **800+ registrations per event**
-- 📚 **Learning**: Advanced logging with **Winston & Morgan**
-- ⚡ **Recent Achievement**: Successfully implemented cookie-based session management
+<table>
+<tr><td valign="top" width="50%">
+
+### 🛠️ Current Projects
+- 🏗️ **Auth Microservice**: Production service powering **3 live projects**
+- 🎓 **College Event Platform**: Handling **800+ registrations/event**
+- ⚡ **Recent Win**: Cookie-based session management implementation
+
+</td><td valign="top" width="50%">
+
+### 📚 Currently Learning
+- 📈 **Advanced Logging**: Winston & Morgan deep dive
+- 📀 **Microservices Architecture**: Scalable system design
+- ☁️ **Cloud Technologies**: Expanding AWS knowledge
+
+</td></tr></table>
 
 ---
 
@@ -82,15 +113,18 @@ I'm passionate about building scalable backend systems and creating robust APIs.
 ## 📊 GitHub Analytics
 
 <div align="center">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshay2425&theme=dark&hide_border=true&stroke=3FB950&ring=3FB950&fire=3FB950&currStreakLabel=3FB950" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshay2425&layout=compact&theme=dark&hide_border=true&title_color=3FB950&text_color=ffffff&icon_color=3FB950" alt="Top Languages" />
+</div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lakshay2425&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshay2425&layout=compact&theme=dark&hide_border=true)
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshay2425&bg_color=0d1117&color=3fb950&line=3fb950&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%"/>
 </div>
 
 ### 🏅 GitHub Achievements
-![Pull Shark](https://github-profile-trophy.vercel.app/?username=lakshay2425&theme=darkhub&no-frame=true&row=1&column=3&margin-w=15&margin-h=15&title=PullRequest,Commits,Reviews)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lakshay2425&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
 
 ---
 
@@ -136,6 +170,8 @@ I'm actively seeking **Backend Developer opportunities** and open to collaborati
 
 ### ⭐ *"Building robust backends, one API at a time"* ⭐
 
-![Profile Views](https://komarev.com/ghpvc/?username=lakshay2425&color=blue&style=flat-square)
+<br/>
+
+**Thanks for visiting! Let's connect and build something amazing together!** 🚀
 
 </div>

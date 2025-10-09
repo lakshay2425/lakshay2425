@@ -1,49 +1,36 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Lakshay+Mahajan+👋;Backend+Developer;MERN+Stack+Enthusiast;Open+for+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Lakshay+Mahajan+👋;Backend+Engineer;Node.js+Auth+Microservices+%7C+AWS+SNS%2FSQS%2FLambda;Open+for+Opportunities" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  
-  [![Linkedin Badge](https://img.shields.io/badge/-lakshay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lakshaymahajan25)](https://www.linkedin.com/in/lakshaymahajan25)
-  [![Twitter Badge](https://img.shields.io/badge/-@lakshay2224-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://x.com/lakshay2224)](https://x.com/lakshay2224)
-  [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=web&logoColor=white&link=https://lakshaymahajan.com/)](https://lakshaymahajan.com/)
-  [![Newsletter Badge](https://img.shields.io/badge/-Newsletter-FF6B35?style=flat-square&logo=mail-dot-ru&logoColor=white&link=https://newsletter.lakshaymahajan.com/)](https://newsletter.lakshaymahajan.com/)
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/lakshaymahajan25"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
+  <a href="https://x.com/lakshay2224"><img src="https://img.shields.io/badge/-@lakshay2224-1ca0f1?style=flat-square&logo=twitter&logoColor=white"></a>
+  <a href="https://lakshaymahajan.com/"><img src="https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=web&logoColor=white"></a>
+  <a href="https://newsletter.lakshaymahajan.com/"><img src="https://img.shields.io/badge/-Newsletter-FF6B35?style=flat-square&logo=mail-dot-ru&logoColor=white"></a>
+</p>
 
 ---
 
-<div align="center">
-  <h2>🚀 Aspiring Backend Developer | Final Year BCA Student | MERN Stack Enthusiast</h2>
-  <p>
-    I'm passionate about building <strong>scalable backend systems</strong> and creating <strong>robust APIs</strong>. 
-    <br />
-    Currently seeking opportunities to contribute my skills in a <strong>backend developer role</strong> 
-    <br />
-    while continuously learning and growing in the tech industry.
-  </p>
-</div>
+> 👨‍💻 **Backend Engineer** focused on building reusable and reliable systems with **Node.js**, **Express**, **MongoDB**, and **AWS SNS/SQS/Lambda**.  
+> 🧠 Passionate about authentication, architecture, and clean deployments.  
+> ✍️ I also break down backend concepts (SSL, UPI, OAuth) in plain language through my [newsletter](https://newsletter.lakshaymahajan.com/).
 
 ---
 
-## 💻 Tech Stack
+## 🧰 Tech Stack
 
-### Backend Development
+### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VPS](https://img.shields.io/badge/VPS-FF6B6B?style=for-the-badge&logo=server&logoColor=white)
 
-### Tools & Technologies
+### Tools & Other Tech
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -52,61 +39,62 @@
 
 ---
 
-## 🔥 What I'm Currently Working On
+## 🚀 What I Build
 
 <table>
 <tr><td valign="top" width="50%">
 
-### 🛠️ Current Projects
-- 🏗️ **Auth Microservice**: Production service powering **3 live projects**
-- 🎓 **College Event Platform**: Handling **800+ registrations/event**
-- ⚡ **Recent Win**: Cookie-based session management implementation
+### 🛠️ Core Projects
+- 🔐 **Auth Microservice** — centralized authentication service (JWT + OAuth) reused across multiple apps.
+- 📚 **KnowledgeStore** — book rental platform with payment integration and cookie-based sessions.
+- 🗂️ **ResourceHub** — resource management platform with modular authentication.
+- 🧱 **Express Boilerplate** — production-ready template with linting, Docker, GitHub Actions, and structured error handling.
 
 </td><td valign="top" width="50%">
 
-### 📚 Currently Learning
-- 📈 **Advanced Logging**: Winston & Morgan deep dive
-- 📀 **Microservices Architecture**: Scalable system design
-- ☁️ **Cloud Technologies**: Expanding AWS knowledge
+### 🧠 Currently Learning
+- 📈 **Advanced Logging & Monitoring** with Winston and Morgan
+- 🧪 **API Testing** with Jest and Supertest
+- ☁️ Expanding **AWS & DevOps** knowledge
+- 🧭 Improving **storytelling & communication** for technical interviews
 
 </td></tr></table>
 
 ---
 
-## 🏆 Featured Projects
+## 🌟 Featured Projects
 
-### 🗂️ [Resource Manager](https://resources.lakshaymahajan.com/)
-**Tech Stack**: React.js, Node.js, Express.js, MongoDB, Docker
-- Comprehensive resource management platform with user authentication
-- RESTful API design with role-based access control
-- Deployed using Docker containers on VPS
+### 🔐 [Auth Microservice](https://github.com/lakshay2425/Auth-Service-Architecture-System-Design)  
+Node.js · Express · MongoDB · AWS SNS/SQS/Lambda · Docker  
+- Centralized auth service with email/password + Google OAuth  
+- JWT (RS256) with secure cookies and rate limiting  
+- Async notifications using SNS → SQS → Lambda
 
-### 📚 [Knowledge Store](https://knowledgestore.lakshaymahajan.com/)
-**Tech Stack**: React.js, Redux, Node.js, Express.js, MongoDB, Payment Gateway
-- Book rental platform with integrated payment system
-- Google OAuth and cookie-based session management  
-- Advanced state management using Redux and Context API
+### 📚 [Knowledge Store](https://github.com/lakshay2425/KnowledgeStore)  
+Node.js · Express · MongoDB · Docker · React  
+- Book rental platform with Google OAuth and cookie-based sessions  
+- Aggregation pipelines for optimized queries  
+- Deployed using Docker
 
-### 📊 [Daily Tracker](https://tracker.lakshaymahajan.com/)
-**Tech Stack**: React.js, Node.js, Express.js, MongoDB
-- Personal productivity tracking application
-- Real-time data synchronization and user dashboard
-- Responsive design with mobile-first approach
+### 🗂️ [ResourceHub](https://github.com/lakshay2425/resourceManager-frontend)  
+Full-stack Resource Management Platform integrated with Auth microservice.
 
-### 🚀 [Express Boilerplate](https://github.com/lakshay2425/express-boilerplate)
-**Tech Stack**: Node.js, Express.js, ESLint, Husky
-- Production-ready Express.js boilerplate with best practices
-- Pre-configured with linting, pre-commit hooks, and error handling
-- Scalable project structure for rapid development
+### 🚀 [Express Boilerplate](https://github.com/lakshay2425/express-boilerplate)  
+- Pre-configured with ESLint, Husky, Docker, and structured project layout  
+- Built to standardize and accelerate backend development
 
 ---
 
-## 📜 Certifications & Learning
+## ✍️ Technical Writing
 
-- 🎯 **Backend Domination** - Sheriyans Coding School
-- 🤖 **Introduction to MCP** - Anthropic
-- 🔧 **Postman API Fundamentals Student Expert** - Postman
-- ☁️ **DevOps for Developer Cohort** - Chai Code
+I simplify complex backend concepts for beginners and practitioners.  
+
+**Recent Articles:**
+- 🔐 [SSL Certificates — How HTTPS Works](https://newsletter.lakshaymahajan.com/)  
+- 💳 UPI Payment Flow Explained  
+- 🔑 Google OAuth Deep Dive
+
+📰 [Read My Newsletter](https://newsletter.lakshaymahajan.com/)
 
 ---
 
@@ -121,57 +109,22 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshay2425&bg_color=0d1117&color=3fb950&line=3fb950&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%"/>
 </div>
 
-### 🏅 GitHub Achievements
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lakshay2425&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
-
 ---
 
-## 📝 Technical Writing
+## 🤝 Let’s Connect
 
-I share my learning journey and technical insights through my newsletter:
+I’m actively looking for **Backend Developer roles** and open to collaborating on interesting backend projects.
 
-### Recent Articles:
-- 🔐 **SSL Certificates Deep Dive** - Understanding HTTPS implementation
-- 💳 **UPI Payment Integration** - Complete guide to Indian payment systems  
-- 🔑 **Google OAuth Mastery** - Authentication strategies and best practices
-
-📰 [Read More on My Newsletter](https://newsletter.lakshaymahajan.com/)
-
----
-
-## 🤝 Let's Connect & Collaborate
-
-I'm actively seeking **Backend Developer opportunities** and open to collaborating on interesting projects!
-
-### 📫 Get In Touch:
-- 💼 **Primary**: [dev@lakshaymahajan.com](mailto:dev@lakshaymahajan.com)
-- 📧 **Secondary**: [lakshay12290@gmail.com](mailto:lakshay12290@gmail.com)
-
-### 🌐 Find Me Online:
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://lakshaymahajan.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshaymahajan25)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/lakshay2224)
-[![Newsletter](https://img.shields.io/badge/Newsletter-FF6B35?style=for-the-badge&logo=mail-dot-ru&logoColor=white)](https://newsletter.lakshaymahajan.com/)
-
----
-
-## 🎯 Current Goals
-
-- 🔍 **Seeking**: Backend Developer role to apply my MERN stack expertise
-- 📈 **Learning**: Advanced logging strategies and microservices architecture
-- 🤝 **Open to**: Collaborations on backend projects and API development
-- 🌱 **Growing**: Continuously expanding my cloud and DevOps knowledge
+- 📩 dev@lakshaymahajan.com  
+- 🌐 [Portfolio](https://lakshaymahajan.com/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/lakshaymahajan25)  
+- 🐦 [Twitter](https://x.com/lakshay2224)  
+- 📰 [Newsletter](https://newsletter.lakshaymahajan.com/)
 
 ---
 
 <div align="center">
-
-### ⭐ *"Building robust backends, one API at a time"* ⭐
-
-<br/>
-
-**Thanks for visiting! Let's connect and build something amazing together!** 🚀
+  
+### ⭐ *"Building robust backends, one API at a time."* ⭐
 
 </div>

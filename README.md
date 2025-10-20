@@ -11,7 +11,7 @@
 
 ---
 
-> 👨‍💻 **Backend Engineer** focused on building reusable and reliable systems with **Node.js**, **Express**, **MongoDB**, and **AWS SNS/SQS/Lambda**.  
+> 👨‍💻 **Backend Engineer** focused on building reusable and systems with **Node.js**, **Express**, **MongoDB**, and **AWS SNS/SQS/Lambda**.  
 > 🧠 Passionate about authentication, architecture, and clean deployments.  
 > ✍️ I also break down backend concepts (SSL, UPI, OAuth) in plain language through my [newsletter](https://newsletter.lakshaymahajan.com/).
 
@@ -48,14 +48,12 @@
 - 🔐 **Auth Microservice** — centralized authentication service (JWT + OAuth) reused across multiple apps.
 - 📚 **KnowledgeStore** — book rental platform with payment integration and cookie-based sessions.
 - 🗂️ **ResourceHub** — resource management platform with modular authentication.
-- 🧱 **Express Boilerplate** — production-ready template with linting, Docker, GitHub Actions, and structured error handling.
+- 🧱 **Express Boilerplate** —  template with linting, Docker, GitHub Actions, and structured error handling.
 
 </td><td valign="top" width="50%">
 
 ### 🧠 Currently Learning
 - 📈 **Advanced Logging & Monitoring** with Winston and Morgan
-- 🧪 **API Testing** with Jest and Supertest
-- ☁️ Expanding **AWS & DevOps** knowledge
 - 🧭 Improving **storytelling & communication** for technical interviews
 
 </td></tr></table>
